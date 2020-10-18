@@ -1,0 +1,639 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 19/02/2016 14:45
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-bald-man-head:before { content: "\f100"; }
+.flaticon-black-hair:before { content: "\f101"; }
+.flaticon-black-long-female-hair-shape:before { content: "\f102"; }
+.flaticon-black-long-hair:before { content: "\f103"; }
+.flaticon-black-short-hair-shape:before { content: "\f104"; }
+.flaticon-boy-hair-outline:before { content: "\f105"; }
+.flaticon-boy-hair-shape:before { content: "\f106"; }
+.flaticon-brush-for-shaving:before { content: "\f107"; }
+.flaticon-brush-silhouette:before { content: "\f108"; }
+.flaticon-brush-tool:before { content: "\f109"; }
+.flaticon-chair-and-mirror-of-hair-salon:before { content: "\f10a"; }
+.flaticon-chair-and-sink-tools-for-wash-hair-at-the-salon:before { content: "\f10b"; }
+.flaticon-chair-side-view-silhouette:before { content: "\f10c"; }
+.flaticon-chair-silhouette:before { content: "\f10d"; }
+.flaticon-circular-comb:before { content: "\f10e"; }
+.flaticon-close-hair-salon-signal-with-scissors-image-hanging-of-a-nail:before { content: "\f10f"; }
+.flaticon-closed-scissors:before { content: "\f110"; }
+.flaticon-comb:before { content: "\f111"; }
+.flaticon-comb-and-long-hair:before { content: "\f112"; }
+.flaticon-comb-and-long-hair-1:before { content: "\f113"; }
+.flaticon-comb-for-curled-hair:before { content: "\f114"; }
+.flaticon-comb-on-long-dark-female-hair:before { content: "\f115"; }
+.flaticon-comb-tool:before { content: "\f116"; }
+.flaticon-comb-tool-for-curled-hair:before { content: "\f117"; }
+.flaticon-comb-tool-for-hair:before { content: "\f118"; }
+.flaticon-comb-variant:before { content: "\f119"; }
+.flaticon-combs-couple:before { content: "\f11a"; }
+.flaticon-combs-kit:before { content: "\f11b"; }
+.flaticon-commercial-hair-salon-symbol-of-circular-shape:before { content: "\f11c"; }
+.flaticon-curled-black-long-female-hair-shape:before { content: "\f11d"; }
+.flaticon-curled-short-black-hair-shape:before { content: "\f11e"; }
+.flaticon-curler-hair-tool:before { content: "\f11f"; }
+.flaticon-curlers-hair-salon-tools:before { content: "\f120"; }
+.flaticon-dark-female-hair-shape:before { content: "\f121"; }
+.flaticon-elastic-circles-for-hair:before { content: "\f122"; }
+.flaticon-elegant-mirror:before { content: "\f123"; }
+.flaticon-female-black-hair:before { content: "\f124"; }
+.flaticon-female-black-hair-shape:before { content: "\f125"; }
+.flaticon-female-black-hair-shape-1:before { content: "\f126"; }
+.flaticon-female-black-long-hair-shape:before { content: "\f127"; }
+.flaticon-female-black-short-hair-shape-at-one-side:before { content: "\f128"; }
+.flaticon-female-dark-long-hair-shape-of-juvenile-style:before { content: "\f129"; }
+.flaticon-female-hair:before { content: "\f12a"; }
+.flaticon-female-hair-covered-with-a-cap:before { content: "\f12b"; }
+.flaticon-female-hair-cut-with-scissors:before { content: "\f12c"; }
+.flaticon-female-hair-salon-symbol:before { content: "\f12d"; }
+.flaticon-female-hair-shape:before { content: "\f12e"; }
+.flaticon-female-hair-shape-1:before { content: "\f12f"; }
+.flaticon-female-hair-shape-and-face-silhouette:before { content: "\f130"; }
+.flaticon-female-hair-style:before { content: "\f131"; }
+.flaticon-female-hair-with-hat:before { content: "\f132"; }
+.flaticon-female-hairs:before { content: "\f133"; }
+.flaticon-female-head:before { content: "\f134"; }
+.flaticon-female-head-silhouette:before { content: "\f135"; }
+.flaticon-female-head-silhouette-from-side-view-with-short-hair-style-cut:before { content: "\f136"; }
+.flaticon-female-head-silhouette-of-short-hair:before { content: "\f137"; }
+.flaticon-female-head-silhouette-with-ponytail:before { content: "\f138"; }
+.flaticon-female-head-with-big-hair-shape-on-it:before { content: "\f139"; }
+.flaticon-female-head-with-ponytail:before { content: "\f13a"; }
+.flaticon-female-long-dark-hair-wig:before { content: "\f13b"; }
+.flaticon-female-long-hair:before { content: "\f13c"; }
+.flaticon-female-long-hair-1:before { content: "\f13d"; }
+.flaticon-female-long-hair-with-ponytails:before { content: "\f13e"; }
+.flaticon-female-short-hair:before { content: "\f13f"; }
+.flaticon-female-short-hair-on-head-silhouette:before { content: "\f140"; }
+.flaticon-female-short-hair-style-silhouette:before { content: "\f141"; }
+.flaticon-female-wig:before { content: "\f142"; }
+.flaticon-fen-and-chair-hair-salon-tools:before { content: "\f143"; }
+.flaticon-foam-hair-salon-tool:before { content: "\f144"; }
+.flaticon-four-scissors-in-a-badge:before { content: "\f145"; }
+.flaticon-geisha-hair-shape:before { content: "\f146"; }
+.flaticon-gel-container-for-hair:before { content: "\f147"; }
+.flaticon-hair:before { content: "\f148"; }
+.flaticon-hair-bottles-in-a-circle:before { content: "\f149"; }
+.flaticon-hair-brush:before { content: "\f14a"; }
+.flaticon-hair-brushes:before { content: "\f14b"; }
+.flaticon-hair-care-tube:before { content: "\f14c"; }
+.flaticon-hair-clips:before { content: "\f14d"; }
+.flaticon-hair-curler:before { content: "\f14e"; }
+.flaticon-hair-in-mirror:before { content: "\f14f"; }
+.flaticon-hair-salon-badge:before { content: "\f150"; }
+.flaticon-hair-salon-badge-1:before { content: "\f151"; }
+.flaticon-hair-salon-badge-2:before { content: "\f152"; }
+.flaticon-hair-salon-badge-circle-with-three-bottles:before { content: "\f153"; }
+.flaticon-hair-salon-badge-with-scissors:before { content: "\f154"; }
+.flaticon-hair-salon-badge-with-scissors-and-mustache:before { content: "\f155"; }
+.flaticon-hair-salon-commercial-circular-symbol:before { content: "\f156"; }
+.flaticon-hair-salon-commercial-signal:before { content: "\f157"; }
+.flaticon-hair-salon-fen-silhouette:before { content: "\f158"; }
+.flaticon-hair-salon-funnel:before { content: "\f159"; }
+.flaticon-hair-salon-male-symbol:before { content: "\f15a"; }
+.flaticon-hair-salon-mustache-circular-symbol:before { content: "\f15b"; }
+.flaticon-hair-salon-situation:before { content: "\f15c"; }
+.flaticon-hair-salon-situation-1:before { content: "\f15d"; }
+.flaticon-hair-salon-situation-2:before { content: "\f15e"; }
+.flaticon-hair-salon-situation-of-two-persons:before { content: "\f15f"; }
+.flaticon-hair-salon-spray-bottle-and-can:before { content: "\f160"; }
+.flaticon-hair-salon-spray-bottle-silhouette:before { content: "\f161"; }
+.flaticon-hair-salon-spray-bottles:before { content: "\f162"; }
+.flaticon-hair-salon-tool:before { content: "\f163"; }
+.flaticon-hair-salon-tool-black-shape:before { content: "\f164"; }
+.flaticon-hair-salon-tube-black-container-shape-side-view:before { content: "\f165"; }
+.flaticon-hair-shape:before { content: "\f166"; }
+.flaticon-hair-shape-1:before { content: "\f167"; }
+.flaticon-hair-shape-2:before { content: "\f168"; }
+.flaticon-hair-short-black-shape:before { content: "\f169"; }
+.flaticon-hair-straightener:before { content: "\f16a"; }
+.flaticon-hair-straightener-1:before { content: "\f16b"; }
+.flaticon-hair-straightener-on-long-female-hair:before { content: "\f16c"; }
+.flaticon-hair-straighter-and-hair-curler:before { content: "\f16d"; }
+.flaticon-hair-style-badge:before { content: "\f16e"; }
+.flaticon-hair-style-badge-1:before { content: "\f16f"; }
+.flaticon-hair-style-badge-2:before { content: "\f170"; }
+.flaticon-hair-style-badge-3:before { content: "\f171"; }
+.flaticon-hair-style-badge-for-commercial-salon:before { content: "\f172"; }
+.flaticon-hair-style-badge-for-female-hair-salon:before { content: "\f173"; }
+.flaticon-hair-style-badge-with-a-mustache:before { content: "\f174"; }
+.flaticon-hair-style-badge-with-a-scissor-and-banner:before { content: "\f175"; }
+.flaticon-hair-style-badge-with-combs:before { content: "\f176"; }
+.flaticon-hair-style-for-gentlemen:before { content: "\f177"; }
+.flaticon-hair-style-medal:before { content: "\f178"; }
+.flaticon-hair-style-salon-circular-badge:before { content: "\f179"; }
+.flaticon-hair-style-shape:before { content: "\f17a"; }
+.flaticon-hair-style-shop-badge-with-a-mustache-shape:before { content: "\f17b"; }
+.flaticon-hair-style-shop-signal:before { content: "\f17c"; }
+.flaticon-hair-style-signal-circle-with-scissor:before { content: "\f17d"; }
+.flaticon-hair-style-silhouette:before { content: "\f17e"; }
+.flaticon-hair-with-a-hat:before { content: "\f17f"; }
+.flaticon-hairdresser:before { content: "\f180"; }
+.flaticon-hairdresser-1:before { content: "\f181"; }
+.flaticon-hairdresser-applying-hair-dye-to-a-client-of-hair-salon:before { content: "\f182"; }
+.flaticon-hairdresser-covering-client-head-with-foam:before { content: "\f183"; }
+.flaticon-hairdresser-drying-the-hair-of-a-client-sitting-on-a-chair-in-front-of-him:before { content: "\f184"; }
+.flaticon-hairdresser-eyeglasses-mustache-and-scissors:before { content: "\f185"; }
+.flaticon-hairdresser-showing-a-mirror-to-the-client:before { content: "\f186"; }
+.flaticon-hairdresser-standing-with-a-hair-straightener-behind-the-client-sitting-on-a-chair:before { content: "\f187"; }
+.flaticon-hairdresser-washing-the-hair-of-a-client-with-bubbles-shampoo:before { content: "\f188"; }
+.flaticon-hairdresser-with-comb-and-scissors:before { content: "\f189"; }
+.flaticon-hairdresser-with-combs:before { content: "\f18a"; }
+.flaticon-hairdresser-with-hairdryer:before { content: "\f18b"; }
+.flaticon-hairdresser-with-scissors-cutting-the-hair-to-a-client-sitting-in-front-of-him:before { content: "\f18c"; }
+.flaticon-hairdresser-with-spray-bottle-behind-the-client-of-hair-salon:before { content: "\f18d"; }
+.flaticon-hairdresser-with-spray-bottle-behind-the-client-of-the-salon:before { content: "\f18e"; }
+.flaticon-hairdresser-with-tools-for-hair-in-his-hands:before { content: "\f18f"; }
+.flaticon-hairdryer-and-comb:before { content: "\f190"; }
+.flaticon-hairdryer-silhouette:before { content: "\f191"; }
+.flaticon-hairdryer-silhouette-side-view:before { content: "\f192"; }
+.flaticon-hairstyle:before { content: "\f193"; }
+.flaticon-hairstyle-with-one-short-side-and-the-other-long:before { content: "\f194"; }
+.flaticon-hairstylist-with-scissors-and-spray-bottle-in-hands:before { content: "\f195"; }
+.flaticon-head-silhouette-with-short-hair:before { content: "\f196"; }
+.flaticon-heads-hairs-and-scissors:before { content: "\f197"; }
+.flaticon-human-hair-shape:before { content: "\f198"; }
+.flaticon-human-male-hairs-of-the-head:before { content: "\f199"; }
+.flaticon-irregular-dark-hair-shape:before { content: "\f19a"; }
+.flaticon-juvenile-female-hair-with-two-ponytails-hanging-at-both-sides:before { content: "\f19b"; }
+.flaticon-liquid-soap-container-bottle-black-silhouette-side-view:before { content: "\f19c"; }
+.flaticon-long-dark-female-hair-shape:before { content: "\f19d"; }
+.flaticon-long-dark-female-hair-shape-1:before { content: "\f19e"; }
+.flaticon-long-dark-female-juvenile-wig:before { content: "\f19f"; }
+.flaticon-long-female-dark-hair:before { content: "\f1a0"; }
+.flaticon-long-female-hair:before { content: "\f1a1"; }
+.flaticon-long-female-hair-1:before { content: "\f1a2"; }
+.flaticon-long-female-hair-and-hair-curler:before { content: "\f1a3"; }
+.flaticon-long-female-hair-image-on-oval-mirror:before { content: "\f1a4"; }
+.flaticon-long-female-hair-shape-at-one-side:before { content: "\f1a5"; }
+.flaticon-long-female-hair-tincture:before { content: "\f1a6"; }
+.flaticon-long-female-hair-wig-shape:before { content: "\f1a7"; }
+.flaticon-long-hair-dark-shape:before { content: "\f1a8"; }
+.flaticon-long-hair-wig:before { content: "\f1a9"; }
+.flaticon-long-hair-with-a-hat:before { content: "\f1aa"; }
+.flaticon-long-thin-comb-tool:before { content: "\f1ab"; }
+.flaticon-long-young-female-hair:before { content: "\f1ac"; }
+.flaticon-male-dark-short-hair-shape:before { content: "\f1ad"; }
+.flaticon-male-hair-of-head-and-face-shapes:before { content: "\f1ae"; }
+.flaticon-male-hair-of-the-head:before { content: "\f1af"; }
+.flaticon-male-hair-on-man-head-side-silhouette:before { content: "\f1b0"; }
+.flaticon-male-hair-salon:before { content: "\f1b1"; }
+.flaticon-male-hair-style-shop:before { content: "\f1b2"; }
+.flaticon-male-head-hair-and-beard:before { content: "\f1b3"; }
+.flaticon-male-head-with-hair:before { content: "\f1b4"; }
+.flaticon-male-long-hair-with-hat:before { content: "\f1b5"; }
+.flaticon-male-short-black-hair-shape:before { content: "\f1b6"; }
+.flaticon-male-short-black-hair-shape-1:before { content: "\f1b7"; }
+.flaticon-male-short-hair:before { content: "\f1b8"; }
+.flaticon-male-short-hair-wig-shape:before { content: "\f1b9"; }
+.flaticon-male-wig:before { content: "\f1ba"; }
+.flaticon-man-and-shaver:before { content: "\f1bb"; }
+.flaticon-man-hair-shape-on-head-side-view-silhouette:before { content: "\f1bc"; }
+.flaticon-man-head-and-a-shaver:before { content: "\f1bd"; }
+.flaticon-man-head-with-a-hat-side-view-silhouette:before { content: "\f1be"; }
+.flaticon-mirror-of-oval-shape:before { content: "\f1bf"; }
+.flaticon-mirror-of-oval-shape-1:before { content: "\f1c0"; }
+.flaticon-mirror-oval-shape:before { content: "\f1c1"; }
+.flaticon-mirror-rectangle:before { content: "\f1c2"; }
+.flaticon-mustache-and-beard-black-shapes:before { content: "\f1c3"; }
+.flaticon-mustache-hair-salon-symbol:before { content: "\f1c4"; }
+.flaticon-mustache-in-a-circle:before { content: "\f1c5"; }
+.flaticon-mustache-shape:before { content: "\f1c6"; }
+.flaticon-mustache-shape-in-a-square:before { content: "\f1c7"; }
+.flaticon-one-comb:before { content: "\f1c8"; }
+.flaticon-open-hair-salon-signal:before { content: "\f1c9"; }
+.flaticon-open-scissors:before { content: "\f1ca"; }
+.flaticon-opened-scissors-variant:before { content: "\f1cb"; }
+.flaticon-oval-hair-salon-mirror-with-ornamental-border:before { content: "\f1cc"; }
+.flaticon-oval-mirror-of-hair-salon:before { content: "\f1cd"; }
+.flaticon-oval-vertical-mirror:before { content: "\f1ce"; }
+.flaticon-pets-hair-salon-tools-kit:before { content: "\f1cf"; }
+.flaticon-ponytail-hair:before { content: "\f1d0"; }
+.flaticon-professional-hair-treatment-with-creams-and-heating-standing-hairdryer:before { content: "\f1d1"; }
+.flaticon-punk-male-head-side-view-silhouette:before { content: "\f1d2"; }
+.flaticon-punk-male-silhouette:before { content: "\f1d3"; }
+.flaticon-punk-man-head-silhouette:before { content: "\f1d4"; }
+.flaticon-razor:before { content: "\f1d5"; }
+.flaticon-razor-hair-salon-tool:before { content: "\f1d6"; }
+.flaticon-razor-to-cut-hairs:before { content: "\f1d7"; }
+.flaticon-razor-tool-black-silhouette-of-the-tool-to-cut-male-hair:before { content: "\f1d8"; }
+.flaticon-razor-tools:before { content: "\f1d9"; }
+.flaticon-razors:before { content: "\f1da"; }
+.flaticon-rectangular-mirror:before { content: "\f1db"; }
+.flaticon-scissor-and-comb:before { content: "\f1dc"; }
+.flaticon-scissors:before { content: "\f1dd"; }
+.flaticon-scissors-1:before { content: "\f1de"; }
+.flaticon-scissors-2:before { content: "\f1df"; }
+.flaticon-scissors-3:before { content: "\f1e0"; }
+.flaticon-scissors-4:before { content: "\f1e1"; }
+.flaticon-scissors-5:before { content: "\f1e2"; }
+.flaticon-scissors-6:before { content: "\f1e3"; }
+.flaticon-scissors-and-comb:before { content: "\f1e4"; }
+.flaticon-scissors-and-comb-1:before { content: "\f1e5"; }
+.flaticon-scissors-and-comb-2:before { content: "\f1e6"; }
+.flaticon-scissors-badge:before { content: "\f1e7"; }
+.flaticon-scissors-couple-in-hair-salon-badge:before { content: "\f1e8"; }
+.flaticon-scissors-cutting-hair:before { content: "\f1e9"; }
+.flaticon-scissors-cutting-long-hair:before { content: "\f1ea"; }
+.flaticon-scissors-in-a-hair-salon-badge:before { content: "\f1eb"; }
+.flaticon-scissors-kit:before { content: "\f1ec"; }
+.flaticon-scissors-opened-tool:before { content: "\f1ed"; }
+.flaticon-scissors-opened-tool-shape:before { content: "\f1ee"; }
+.flaticon-scissors-variant:before { content: "\f1ef"; }
+.flaticon-shampoo-application-in-hair-salon:before { content: "\f1f0"; }
+.flaticon-shaver:before { content: "\f1f1"; }
+.flaticon-shaver-electrical-tool-front-view:before { content: "\f1f2"; }
+.flaticon-shaving-male-head-silhouette:before { content: "\f1f3"; }
+.flaticon-short-black-hair:before { content: "\f1f4"; }
+.flaticon-short-black-hair-shape:before { content: "\f1f5"; }
+.flaticon-short-black-hair-shape-1:before { content: "\f1f6"; }
+.flaticon-short-black-hair-wig-shape:before { content: "\f1f7"; }
+.flaticon-short-black-irregular-hair-shape:before { content: "\f1f8"; }
+.flaticon-short-dark-female-hair-shape:before { content: "\f1f9"; }
+.flaticon-short-dark-hair:before { content: "\f1fa"; }
+.flaticon-short-dark-hair-1:before { content: "\f1fb"; }
+.flaticon-short-dark-hair-shape:before { content: "\f1fc"; }
+.flaticon-short-dark-hair-shape-1:before { content: "\f1fd"; }
+.flaticon-short-dark-hair-shape-of-human-head:before { content: "\f1fe"; }
+.flaticon-short-dark-hair-wig:before { content: "\f1ff"; }
+.flaticon-short-dark-human-hair:before { content: "\f200"; }
+.flaticon-short-dark-male-hair-shape:before { content: "\f201"; }
+.flaticon-short-dark-male-hair-shape-1:before { content: "\f202"; }
+.flaticon-short-dark-male-hair-shape-2:before { content: "\f203"; }
+.flaticon-short-female-dark-hair-shape:before { content: "\f204"; }
+.flaticon-short-female-hair-on-side-view-woman-head-silhouette:before { content: "\f205"; }
+.flaticon-short-hair:before { content: "\f206"; }
+.flaticon-short-hair-1:before { content: "\f207"; }
+.flaticon-short-hair-2:before { content: "\f208"; }
+.flaticon-short-hair-and-scissors:before { content: "\f209"; }
+.flaticon-short-hair-black-shape:before { content: "\f20a"; }
+.flaticon-short-hair-of-rounded-external-shape:before { content: "\f20b"; }
+.flaticon-short-hair-on-female-head-silhouette:before { content: "\f20c"; }
+.flaticon-short-hair-shape:before { content: "\f20d"; }
+.flaticon-short-hair-shape-1:before { content: "\f20e"; }
+.flaticon-short-hair-shape-2:before { content: "\f20f"; }
+.flaticon-short-hair-shape-3:before { content: "\f210"; }
+.flaticon-short-hair-shape-reflex-on-a-rectangular-mirror-of-hair-salon:before { content: "\f211"; }
+.flaticon-short-hairstyle:before { content: "\f212"; }
+.flaticon-short-male-hair-shape:before { content: "\f213"; }
+.flaticon-short-male-hair-shape-1:before { content: "\f214"; }
+.flaticon-spang-hair-salon-tool:before { content: "\f215"; }
+.flaticon-spang-hair-tool-outline:before { content: "\f216"; }
+.flaticon-spray-bottle-hair-salon-tool-silhouette:before { content: "\f217"; }
+.flaticon-spray-bottles:before { content: "\f218"; }
+.flaticon-standing-hairdryer:before { content: "\f219"; }
+.flaticon-three-bottles-of-hair-salon:before { content: "\f21a"; }
+.flaticon-wig-black-hair:before { content: "\f21b"; }
+.flaticon-woman-hair:before { content: "\f21c"; }
+.flaticon-woman-hair-black-shape:before { content: "\f21d"; }
+.flaticon-woman-hair-cut:before { content: "\f21e"; }
+.flaticon-woman-hair-extended-in-front-of-the-head:before { content: "\f21f"; }
+.flaticon-woman-hair-image-in-oval-mirror:before { content: "\f220"; }
+.flaticon-woman-hair-shape-from-side-view:before { content: "\f221"; }
+.flaticon-woman-head-side-silhouette:before { content: "\f222"; }
+.flaticon-woman-head-side-view:before { content: "\f223"; }
+.flaticon-woman-head-side-view-silhouette:before { content: "\f224"; }
+.flaticon-woman-head-silhouette-with-short-curled-hair-style:before { content: "\f225"; }
+.flaticon-woman-head-silhouette-with-short-hair:before { content: "\f226"; }
+.flaticon-woman-head-with-short-hair-silhouette:before { content: "\f227"; }
+.flaticon-woman-silhouette-head-side-view:before { content: "\f228"; }
+.flaticon-woman-sitting-waiting-on-a-hair-salon-chair-observing-the-wall-clock:before { content: "\f229"; }
+.flaticon-woman-with-long-hair:before { content: "\f22a"; }
+.flaticon-young-male-short-irregular-hair-on-head-and-a-small-beard:before { content: "\f22b"; }
+    
+    $font-Flaticon-bald-man-head: "\f100";
+    $font-Flaticon-black-hair: "\f101";
+    $font-Flaticon-black-long-female-hair-shape: "\f102";
+    $font-Flaticon-black-long-hair: "\f103";
+    $font-Flaticon-black-short-hair-shape: "\f104";
+    $font-Flaticon-boy-hair-outline: "\f105";
+    $font-Flaticon-boy-hair-shape: "\f106";
+    $font-Flaticon-brush-for-shaving: "\f107";
+    $font-Flaticon-brush-silhouette: "\f108";
+    $font-Flaticon-brush-tool: "\f109";
+    $font-Flaticon-chair-and-mirror-of-hair-salon: "\f10a";
+    $font-Flaticon-chair-and-sink-tools-for-wash-hair-at-the-salon: "\f10b";
+    $font-Flaticon-chair-side-view-silhouette: "\f10c";
+    $font-Flaticon-chair-silhouette: "\f10d";
+    $font-Flaticon-circular-comb: "\f10e";
+    $font-Flaticon-close-hair-salon-signal-with-scissors-image-hanging-of-a-nail: "\f10f";
+    $font-Flaticon-closed-scissors: "\f110";
+    $font-Flaticon-comb: "\f111";
+    $font-Flaticon-comb-and-long-hair: "\f112";
+    $font-Flaticon-comb-and-long-hair-1: "\f113";
+    $font-Flaticon-comb-for-curled-hair: "\f114";
+    $font-Flaticon-comb-on-long-dark-female-hair: "\f115";
+    $font-Flaticon-comb-tool: "\f116";
+    $font-Flaticon-comb-tool-for-curled-hair: "\f117";
+    $font-Flaticon-comb-tool-for-hair: "\f118";
+    $font-Flaticon-comb-variant: "\f119";
+    $font-Flaticon-combs-couple: "\f11a";
+    $font-Flaticon-combs-kit: "\f11b";
+    $font-Flaticon-commercial-hair-salon-symbol-of-circular-shape: "\f11c";
+    $font-Flaticon-curled-black-long-female-hair-shape: "\f11d";
+    $font-Flaticon-curled-short-black-hair-shape: "\f11e";
+    $font-Flaticon-curler-hair-tool: "\f11f";
+    $font-Flaticon-curlers-hair-salon-tools: "\f120";
+    $font-Flaticon-dark-female-hair-shape: "\f121";
+    $font-Flaticon-elastic-circles-for-hair: "\f122";
+    $font-Flaticon-elegant-mirror: "\f123";
+    $font-Flaticon-female-black-hair: "\f124";
+    $font-Flaticon-female-black-hair-shape: "\f125";
+    $font-Flaticon-female-black-hair-shape-1: "\f126";
+    $font-Flaticon-female-black-long-hair-shape: "\f127";
+    $font-Flaticon-female-black-short-hair-shape-at-one-side: "\f128";
+    $font-Flaticon-female-dark-long-hair-shape-of-juvenile-style: "\f129";
+    $font-Flaticon-female-hair: "\f12a";
+    $font-Flaticon-female-hair-covered-with-a-cap: "\f12b";
+    $font-Flaticon-female-hair-cut-with-scissors: "\f12c";
+    $font-Flaticon-female-hair-salon-symbol: "\f12d";
+    $font-Flaticon-female-hair-shape: "\f12e";
+    $font-Flaticon-female-hair-shape-1: "\f12f";
+    $font-Flaticon-female-hair-shape-and-face-silhouette: "\f130";
+    $font-Flaticon-female-hair-style: "\f131";
+    $font-Flaticon-female-hair-with-hat: "\f132";
+    $font-Flaticon-female-hairs: "\f133";
+    $font-Flaticon-female-head: "\f134";
+    $font-Flaticon-female-head-silhouette: "\f135";
+    $font-Flaticon-female-head-silhouette-from-side-view-with-short-hair-style-cut: "\f136";
+    $font-Flaticon-female-head-silhouette-of-short-hair: "\f137";
+    $font-Flaticon-female-head-silhouette-with-ponytail: "\f138";
+    $font-Flaticon-female-head-with-big-hair-shape-on-it: "\f139";
+    $font-Flaticon-female-head-with-ponytail: "\f13a";
+    $font-Flaticon-female-long-dark-hair-wig: "\f13b";
+    $font-Flaticon-female-long-hair: "\f13c";
+    $font-Flaticon-female-long-hair-1: "\f13d";
+    $font-Flaticon-female-long-hair-with-ponytails: "\f13e";
+    $font-Flaticon-female-short-hair: "\f13f";
+    $font-Flaticon-female-short-hair-on-head-silhouette: "\f140";
+    $font-Flaticon-female-short-hair-style-silhouette: "\f141";
+    $font-Flaticon-female-wig: "\f142";
+    $font-Flaticon-fen-and-chair-hair-salon-tools: "\f143";
+    $font-Flaticon-foam-hair-salon-tool: "\f144";
+    $font-Flaticon-four-scissors-in-a-badge: "\f145";
+    $font-Flaticon-geisha-hair-shape: "\f146";
+    $font-Flaticon-gel-container-for-hair: "\f147";
+    $font-Flaticon-hair: "\f148";
+    $font-Flaticon-hair-bottles-in-a-circle: "\f149";
+    $font-Flaticon-hair-brush: "\f14a";
+    $font-Flaticon-hair-brushes: "\f14b";
+    $font-Flaticon-hair-care-tube: "\f14c";
+    $font-Flaticon-hair-clips: "\f14d";
+    $font-Flaticon-hair-curler: "\f14e";
+    $font-Flaticon-hair-in-mirror: "\f14f";
+    $font-Flaticon-hair-salon-badge: "\f150";
+    $font-Flaticon-hair-salon-badge-1: "\f151";
+    $font-Flaticon-hair-salon-badge-2: "\f152";
+    $font-Flaticon-hair-salon-badge-circle-with-three-bottles: "\f153";
+    $font-Flaticon-hair-salon-badge-with-scissors: "\f154";
+    $font-Flaticon-hair-salon-badge-with-scissors-and-mustache: "\f155";
+    $font-Flaticon-hair-salon-commercial-circular-symbol: "\f156";
+    $font-Flaticon-hair-salon-commercial-signal: "\f157";
+    $font-Flaticon-hair-salon-fen-silhouette: "\f158";
+    $font-Flaticon-hair-salon-funnel: "\f159";
+    $font-Flaticon-hair-salon-male-symbol: "\f15a";
+    $font-Flaticon-hair-salon-mustache-circular-symbol: "\f15b";
+    $font-Flaticon-hair-salon-situation: "\f15c";
+    $font-Flaticon-hair-salon-situation-1: "\f15d";
+    $font-Flaticon-hair-salon-situation-2: "\f15e";
+    $font-Flaticon-hair-salon-situation-of-two-persons: "\f15f";
+    $font-Flaticon-hair-salon-spray-bottle-and-can: "\f160";
+    $font-Flaticon-hair-salon-spray-bottle-silhouette: "\f161";
+    $font-Flaticon-hair-salon-spray-bottles: "\f162";
+    $font-Flaticon-hair-salon-tool: "\f163";
+    $font-Flaticon-hair-salon-tool-black-shape: "\f164";
+    $font-Flaticon-hair-salon-tube-black-container-shape-side-view: "\f165";
+    $font-Flaticon-hair-shape: "\f166";
+    $font-Flaticon-hair-shape-1: "\f167";
+    $font-Flaticon-hair-shape-2: "\f168";
+    $font-Flaticon-hair-short-black-shape: "\f169";
+    $font-Flaticon-hair-straightener: "\f16a";
+    $font-Flaticon-hair-straightener-1: "\f16b";
+    $font-Flaticon-hair-straightener-on-long-female-hair: "\f16c";
+    $font-Flaticon-hair-straighter-and-hair-curler: "\f16d";
+    $font-Flaticon-hair-style-badge: "\f16e";
+    $font-Flaticon-hair-style-badge-1: "\f16f";
+    $font-Flaticon-hair-style-badge-2: "\f170";
+    $font-Flaticon-hair-style-badge-3: "\f171";
+    $font-Flaticon-hair-style-badge-for-commercial-salon: "\f172";
+    $font-Flaticon-hair-style-badge-for-female-hair-salon: "\f173";
+    $font-Flaticon-hair-style-badge-with-a-mustache: "\f174";
+    $font-Flaticon-hair-style-badge-with-a-scissor-and-banner: "\f175";
+    $font-Flaticon-hair-style-badge-with-combs: "\f176";
+    $font-Flaticon-hair-style-for-gentlemen: "\f177";
+    $font-Flaticon-hair-style-medal: "\f178";
+    $font-Flaticon-hair-style-salon-circular-badge: "\f179";
+    $font-Flaticon-hair-style-shape: "\f17a";
+    $font-Flaticon-hair-style-shop-badge-with-a-mustache-shape: "\f17b";
+    $font-Flaticon-hair-style-shop-signal: "\f17c";
+    $font-Flaticon-hair-style-signal-circle-with-scissor: "\f17d";
+    $font-Flaticon-hair-style-silhouette: "\f17e";
+    $font-Flaticon-hair-with-a-hat: "\f17f";
+    $font-Flaticon-hairdresser: "\f180";
+    $font-Flaticon-hairdresser-1: "\f181";
+    $font-Flaticon-hairdresser-applying-hair-dye-to-a-client-of-hair-salon: "\f182";
+    $font-Flaticon-hairdresser-covering-client-head-with-foam: "\f183";
+    $font-Flaticon-hairdresser-drying-the-hair-of-a-client-sitting-on-a-chair-in-front-of-him: "\f184";
+    $font-Flaticon-hairdresser-eyeglasses-mustache-and-scissors: "\f185";
+    $font-Flaticon-hairdresser-showing-a-mirror-to-the-client: "\f186";
+    $font-Flaticon-hairdresser-standing-with-a-hair-straightener-behind-the-client-sitting-on-a-chair: "\f187";
+    $font-Flaticon-hairdresser-washing-the-hair-of-a-client-with-bubbles-shampoo: "\f188";
+    $font-Flaticon-hairdresser-with-comb-and-scissors: "\f189";
+    $font-Flaticon-hairdresser-with-combs: "\f18a";
+    $font-Flaticon-hairdresser-with-hairdryer: "\f18b";
+    $font-Flaticon-hairdresser-with-scissors-cutting-the-hair-to-a-client-sitting-in-front-of-him: "\f18c";
+    $font-Flaticon-hairdresser-with-spray-bottle-behind-the-client-of-hair-salon: "\f18d";
+    $font-Flaticon-hairdresser-with-spray-bottle-behind-the-client-of-the-salon: "\f18e";
+    $font-Flaticon-hairdresser-with-tools-for-hair-in-his-hands: "\f18f";
+    $font-Flaticon-hairdryer-and-comb: "\f190";
+    $font-Flaticon-hairdryer-silhouette: "\f191";
+    $font-Flaticon-hairdryer-silhouette-side-view: "\f192";
+    $font-Flaticon-hairstyle: "\f193";
+    $font-Flaticon-hairstyle-with-one-short-side-and-the-other-long: "\f194";
+    $font-Flaticon-hairstylist-with-scissors-and-spray-bottle-in-hands: "\f195";
+    $font-Flaticon-head-silhouette-with-short-hair: "\f196";
+    $font-Flaticon-heads-hairs-and-scissors: "\f197";
+    $font-Flaticon-human-hair-shape: "\f198";
+    $font-Flaticon-human-male-hairs-of-the-head: "\f199";
+    $font-Flaticon-irregular-dark-hair-shape: "\f19a";
+    $font-Flaticon-juvenile-female-hair-with-two-ponytails-hanging-at-both-sides: "\f19b";
+    $font-Flaticon-liquid-soap-container-bottle-black-silhouette-side-view: "\f19c";
+    $font-Flaticon-long-dark-female-hair-shape: "\f19d";
+    $font-Flaticon-long-dark-female-hair-shape-1: "\f19e";
+    $font-Flaticon-long-dark-female-juvenile-wig: "\f19f";
+    $font-Flaticon-long-female-dark-hair: "\f1a0";
+    $font-Flaticon-long-female-hair: "\f1a1";
+    $font-Flaticon-long-female-hair-1: "\f1a2";
+    $font-Flaticon-long-female-hair-and-hair-curler: "\f1a3";
+    $font-Flaticon-long-female-hair-image-on-oval-mirror: "\f1a4";
+    $font-Flaticon-long-female-hair-shape-at-one-side: "\f1a5";
+    $font-Flaticon-long-female-hair-tincture: "\f1a6";
+    $font-Flaticon-long-female-hair-wig-shape: "\f1a7";
+    $font-Flaticon-long-hair-dark-shape: "\f1a8";
+    $font-Flaticon-long-hair-wig: "\f1a9";
+    $font-Flaticon-long-hair-with-a-hat: "\f1aa";
+    $font-Flaticon-long-thin-comb-tool: "\f1ab";
+    $font-Flaticon-long-young-female-hair: "\f1ac";
+    $font-Flaticon-male-dark-short-hair-shape: "\f1ad";
+    $font-Flaticon-male-hair-of-head-and-face-shapes: "\f1ae";
+    $font-Flaticon-male-hair-of-the-head: "\f1af";
+    $font-Flaticon-male-hair-on-man-head-side-silhouette: "\f1b0";
+    $font-Flaticon-male-hair-salon: "\f1b1";
+    $font-Flaticon-male-hair-style-shop: "\f1b2";
+    $font-Flaticon-male-head-hair-and-beard: "\f1b3";
+    $font-Flaticon-male-head-with-hair: "\f1b4";
+    $font-Flaticon-male-long-hair-with-hat: "\f1b5";
+    $font-Flaticon-male-short-black-hair-shape: "\f1b6";
+    $font-Flaticon-male-short-black-hair-shape-1: "\f1b7";
+    $font-Flaticon-male-short-hair: "\f1b8";
+    $font-Flaticon-male-short-hair-wig-shape: "\f1b9";
+    $font-Flaticon-male-wig: "\f1ba";
+    $font-Flaticon-man-and-shaver: "\f1bb";
+    $font-Flaticon-man-hair-shape-on-head-side-view-silhouette: "\f1bc";
+    $font-Flaticon-man-head-and-a-shaver: "\f1bd";
+    $font-Flaticon-man-head-with-a-hat-side-view-silhouette: "\f1be";
+    $font-Flaticon-mirror-of-oval-shape: "\f1bf";
+    $font-Flaticon-mirror-of-oval-shape-1: "\f1c0";
+    $font-Flaticon-mirror-oval-shape: "\f1c1";
+    $font-Flaticon-mirror-rectangle: "\f1c2";
+    $font-Flaticon-mustache-and-beard-black-shapes: "\f1c3";
+    $font-Flaticon-mustache-hair-salon-symbol: "\f1c4";
+    $font-Flaticon-mustache-in-a-circle: "\f1c5";
+    $font-Flaticon-mustache-shape: "\f1c6";
+    $font-Flaticon-mustache-shape-in-a-square: "\f1c7";
+    $font-Flaticon-one-comb: "\f1c8";
+    $font-Flaticon-open-hair-salon-signal: "\f1c9";
+    $font-Flaticon-open-scissors: "\f1ca";
+    $font-Flaticon-opened-scissors-variant: "\f1cb";
+    $font-Flaticon-oval-hair-salon-mirror-with-ornamental-border: "\f1cc";
+    $font-Flaticon-oval-mirror-of-hair-salon: "\f1cd";
+    $font-Flaticon-oval-vertical-mirror: "\f1ce";
+    $font-Flaticon-pets-hair-salon-tools-kit: "\f1cf";
+    $font-Flaticon-ponytail-hair: "\f1d0";
+    $font-Flaticon-professional-hair-treatment-with-creams-and-heating-standing-hairdryer: "\f1d1";
+    $font-Flaticon-punk-male-head-side-view-silhouette: "\f1d2";
+    $font-Flaticon-punk-male-silhouette: "\f1d3";
+    $font-Flaticon-punk-man-head-silhouette: "\f1d4";
+    $font-Flaticon-razor: "\f1d5";
+    $font-Flaticon-razor-hair-salon-tool: "\f1d6";
+    $font-Flaticon-razor-to-cut-hairs: "\f1d7";
+    $font-Flaticon-razor-tool-black-silhouette-of-the-tool-to-cut-male-hair: "\f1d8";
+    $font-Flaticon-razor-tools: "\f1d9";
+    $font-Flaticon-razors: "\f1da";
+    $font-Flaticon-rectangular-mirror: "\f1db";
+    $font-Flaticon-scissor-and-comb: "\f1dc";
+    $font-Flaticon-scissors: "\f1dd";
+    $font-Flaticon-scissors-1: "\f1de";
+    $font-Flaticon-scissors-2: "\f1df";
+    $font-Flaticon-scissors-3: "\f1e0";
+    $font-Flaticon-scissors-4: "\f1e1";
+    $font-Flaticon-scissors-5: "\f1e2";
+    $font-Flaticon-scissors-6: "\f1e3";
+    $font-Flaticon-scissors-and-comb: "\f1e4";
+    $font-Flaticon-scissors-and-comb-1: "\f1e5";
+    $font-Flaticon-scissors-and-comb-2: "\f1e6";
+    $font-Flaticon-scissors-badge: "\f1e7";
+    $font-Flaticon-scissors-couple-in-hair-salon-badge: "\f1e8";
+    $font-Flaticon-scissors-cutting-hair: "\f1e9";
+    $font-Flaticon-scissors-cutting-long-hair: "\f1ea";
+    $font-Flaticon-scissors-in-a-hair-salon-badge: "\f1eb";
+    $font-Flaticon-scissors-kit: "\f1ec";
+    $font-Flaticon-scissors-opened-tool: "\f1ed";
+    $font-Flaticon-scissors-opened-tool-shape: "\f1ee";
+    $font-Flaticon-scissors-variant: "\f1ef";
+    $font-Flaticon-shampoo-application-in-hair-salon: "\f1f0";
+    $font-Flaticon-shaver: "\f1f1";
+    $font-Flaticon-shaver-electrical-tool-front-view: "\f1f2";
+    $font-Flaticon-shaving-male-head-silhouette: "\f1f3";
+    $font-Flaticon-short-black-hair: "\f1f4";
+    $font-Flaticon-short-black-hair-shape: "\f1f5";
+    $font-Flaticon-short-black-hair-shape-1: "\f1f6";
+    $font-Flaticon-short-black-hair-wig-shape: "\f1f7";
+    $font-Flaticon-short-black-irregular-hair-shape: "\f1f8";
+    $font-Flaticon-short-dark-female-hair-shape: "\f1f9";
+    $font-Flaticon-short-dark-hair: "\f1fa";
+    $font-Flaticon-short-dark-hair-1: "\f1fb";
+    $font-Flaticon-short-dark-hair-shape: "\f1fc";
+    $font-Flaticon-short-dark-hair-shape-1: "\f1fd";
+    $font-Flaticon-short-dark-hair-shape-of-human-head: "\f1fe";
+    $font-Flaticon-short-dark-hair-wig: "\f1ff";
+    $font-Flaticon-short-dark-human-hair: "\f200";
+    $font-Flaticon-short-dark-male-hair-shape: "\f201";
+    $font-Flaticon-short-dark-male-hair-shape-1: "\f202";
+    $font-Flaticon-short-dark-male-hair-shape-2: "\f203";
+    $font-Flaticon-short-female-dark-hair-shape: "\f204";
+    $font-Flaticon-short-female-hair-on-side-view-woman-head-silhouette: "\f205";
+    $font-Flaticon-short-hair: "\f206";
+    $font-Flaticon-short-hair-1: "\f207";
+    $font-Flaticon-short-hair-2: "\f208";
+    $font-Flaticon-short-hair-and-scissors: "\f209";
+    $font-Flaticon-short-hair-black-shape: "\f20a";
+    $font-Flaticon-short-hair-of-rounded-external-shape: "\f20b";
+    $font-Flaticon-short-hair-on-female-head-silhouette: "\f20c";
+    $font-Flaticon-short-hair-shape: "\f20d";
+    $font-Flaticon-short-hair-shape-1: "\f20e";
+    $font-Flaticon-short-hair-shape-2: "\f20f";
+    $font-Flaticon-short-hair-shape-3: "\f210";
+    $font-Flaticon-short-hair-shape-reflex-on-a-rectangular-mirror-of-hair-salon: "\f211";
+    $font-Flaticon-short-hairstyle: "\f212";
+    $font-Flaticon-short-male-hair-shape: "\f213";
+    $font-Flaticon-short-male-hair-shape-1: "\f214";
+    $font-Flaticon-spang-hair-salon-tool: "\f215";
+    $font-Flaticon-spang-hair-tool-outline: "\f216";
+    $font-Flaticon-spray-bottle-hair-salon-tool-silhouette: "\f217";
+    $font-Flaticon-spray-bottles: "\f218";
+    $font-Flaticon-standing-hairdryer: "\f219";
+    $font-Flaticon-three-bottles-of-hair-salon: "\f21a";
+    $font-Flaticon-wig-black-hair: "\f21b";
+    $font-Flaticon-woman-hair: "\f21c";
+    $font-Flaticon-woman-hair-black-shape: "\f21d";
+    $font-Flaticon-woman-hair-cut: "\f21e";
+    $font-Flaticon-woman-hair-extended-in-front-of-the-head: "\f21f";
+    $font-Flaticon-woman-hair-image-in-oval-mirror: "\f220";
+    $font-Flaticon-woman-hair-shape-from-side-view: "\f221";
+    $font-Flaticon-woman-head-side-silhouette: "\f222";
+    $font-Flaticon-woman-head-side-view: "\f223";
+    $font-Flaticon-woman-head-side-view-silhouette: "\f224";
+    $font-Flaticon-woman-head-silhouette-with-short-curled-hair-style: "\f225";
+    $font-Flaticon-woman-head-silhouette-with-short-hair: "\f226";
+    $font-Flaticon-woman-head-with-short-hair-silhouette: "\f227";
+    $font-Flaticon-woman-silhouette-head-side-view: "\f228";
+    $font-Flaticon-woman-sitting-waiting-on-a-hair-salon-chair-observing-the-wall-clock: "\f229";
+    $font-Flaticon-woman-with-long-hair: "\f22a";
+    $font-Flaticon-young-male-short-irregular-hair-on-head-and-a-small-beard: "\f22b";

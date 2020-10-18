@@ -1,0 +1,376 @@
+
+@charset "UTF -8";
+/* RESPONSIVE CSS Document 
+Author Name:themeperch
+Author URI:http://themeforest.net/user/themeperch?ref=themeperch
+Creation Date:27th july, 2016
+Description:A default stylesheet for Scissors:Scissors Salon & Hair Styling Template Developed By themeperch.
+
+------------ MEDIA WIDTH------------- 
+	min-width - 1000px
+	max-width - 999px
+	max-width - 800px
+	max-width - 768px
+	max-width - 640px
+	max-width - 480px
+	max-width - 360px
+*/
+
+
+
+/*min-width:1000px */
+@media (min-width:1000px) {
+
+}
+
+/*max-width:999px */
+@media (max-width:999px) {
+
+	.contact-info-inner h5,
+	.contact-info-inner p {
+	    font-size: 12px;
+	}
+	.contact-info-inner .info-icon {
+	    font-size: 18px;
+	    height: 40px;
+	    line-height: 40px;
+	    margin-right: 5px;
+	    width: 40px;
+	}
+	.contact-info-inner .social-icon-circle a {
+	    height: 40px;
+	    line-height: 40px;
+	    margin: 0 2px;
+	    width: 40px;
+	}
+	.main-menu-style2 .menu > li > a
+	.main-menu-style2 .menu > li > a{
+		padding: 0 5px;
+	}
+	.work {
+		height: 150px;
+		left: 42.4%;
+		top: 135px;
+		width: 150px;
+	}
+	.work h3{
+		font-size: 20px;
+	}
+	.working-day{
+		margin: 0 5px;
+	}
+}
+
+/*max-width:800px */
+@media (max-width:800px) {
+	
+	.topbar.topbar-toggle,
+	.topbar-info,
+	.topbar-info-area{
+		display: block;
+	}
+	.contact-info-inner {
+		display: block;
+		margin-left: 30px;
+		margin-right: 30px;
+	}
+	.contact-info-inner .pull-right{
+		margin-right: 0
+	}
+	.topbar-style-3 .border-right{
+		border-right: 0;
+	}
+	.topbar-toggle .selectize-control{
+		margin-left: 20px;
+	}
+	.add-to-cart{
+		text-align: center;
+	}
+	.cart::after{
+		left: 138px;
+	}
+	.newsletter i{
+		right: 10px;
+	}
+	.book-online,
+	.topbar,
+	.header-nav .logo{
+		display: none;
+	}
+	.book-online{
+		text-align: center;
+		margin: 0;
+	}
+	.flickr-feed img{
+		margin-right: 0;
+	}
+	.working-time{
+		margin: 0 0 60px;
+		padding-left: 30px;
+	}
+	.top-deals-separator{
+		padding: 0 15px;
+	}
+	.header-nav .menu > li > a.active::before{
+		display: none;
+	}
+	.work {
+	  left: 40.6%;
+	  top: 98px;
+	}
+	.widget .social-icon-circle a {
+	  margin-bottom: 5px;
+	}
+}
+
+/*max-width:768px */
+@media (max-width:768px) {	
+	
+	
+	.work,
+	.main-menu-style2 .logo,
+	.social-icons ul li span{
+		display: none;
+	}
+	.about-us-customer span{
+		font-size: 28px;
+	}
+	.about-us-customer{
+		margin: 30px 0;
+	}
+	.call-us p {
+ 	   font-size: 12px;
+	}
+	.book-now .logo,
+	.appoinment-left,
+	.top-deals .text-right,
+	.top-deals,
+	.copyright{
+		text-align: center;
+	}
+	.working-time .border-right,
+	.widget .border-right{
+		border: 0;
+	}
+	.about-us-image-holder,
+	.service-image-holder{
+		margin-bottom: 70px;
+	}
+	.shoping-single-item.display-flex{
+		display: flex;
+	}
+    .logo,
+	.display-flex,
+	.top-deals,
+	.working-hour-item{
+		display: block;
+	}
+	.checkout-billing-adddress,
+	.top-deals-price-left {
+	    padding-right: 15px;
+	}
+	.appoinment-contact-form .btn,
+	.appoinment-contact-form,
+	.offer-area .btn,
+	.trendy-haircut-image-holder,
+	.top-deals-separator,
+	.working-hour-image-holder{
+		margin-bottom: 30px;
+	}
+	.shop-main-content .shoping-single-item-inner,
+	.shop-main-content .sidebar-wrap,
+	.shop-main-content .content-wrap,
+	.appoinment-right,
+	.our-work-area,
+	.appoinment-left,
+	.appoinment-area-style2{
+		padding: 0 15px;
+	}
+	.style-single-slide{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	.service-single-padding-right,
+	.service-single-padding-left{
+		padding: 0 15px;
+		margin-bottom: 30px
+	}
+	.style-slide.owl-theme.owl-carousel .owl-nav > .owl-next{
+		right: 0;
+	}
+	.style-slide.owl-theme.owl-carousel .owl-nav > div{
+		left: 0;
+	}
+	.service-area .service-details .pull-right {
+    	float: left !important;
+	}
+	.service-icon-left .service-icon {
+	    margin-left: 0;
+	    margin-right: 30px;
+	}
+	.service-area .text-right{
+		text-align: left;
+	}
+	.protfolio-content{
+		top: 28%;
+	}
+	.protfolio-style2 .protfolio-content{
+		top: 50%;
+	}
+	.working-day-outer {
+		display: inline-block;
+		vertical-align: middle;
+		width: 30%;
+		margin-bottom: 30px;
+		}
+	.protfolio-single-item.six-column .protfolio-content{
+		padding: 0 190px;
+	}
+	.huge-collection,
+	.hair-dryer,
+	.appoinment-image-holder{
+		margin-top: 60px;
+	} 
+
+}
+
+/*max-width:640px */
+@media (max-width:640px) {
+
+	.footer-menu ul li a.border-right{
+		border:0; 
+	}
+	.logo, 
+	 .social-icon-circle,
+	.add-to-cart,
+	.call-us{
+		text-align: center;
+	}
+	.cart::after{
+		left: 50%;
+	}
+	.main-menu-style2{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.header-search,	
+	.appointment,
+	.progress-border-icon::after{
+		display: none;
+	}
+	.client-say-qutue-list{
+		margin-bottom: 30px;
+	}
+	.about-us-details2{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.protfolio-content{
+		top: 50%;
+	}
+	.flickr-feed img{
+		margin-right: 5px;
+	}
+	.work-image-holder img{
+		width: 100%;
+	}
+	.widget .social-icon-circle a {
+	  margin-bottom: 0;
+	}
+	.working-time .row .text-center{
+		text-align: center;
+	}
+
+
+}
+
+/*max-width:480px */
+@media (max-width:480px) {
+
+	.slider-content h2{
+		font-size: 30px;
+	}
+	.slider-content h1{
+		font-size: 50px;
+	}
+	.topbar-style2,
+	.topbar-style2 .social-icons.text-right {
+	    text-align: center;
+	}
+	.topbar-style2 .social-icons.text-right li {
+	    padding-left: 0;
+	}
+	.style-slide.owl-theme.owl-carousel .owl-nav > .owl-next{
+		right: -15px;
+	}
+	.style-slide.owl-theme.owl-carousel .owl-nav > div{
+		left: -15px;
+	}
+	.working-day-outer{
+		width: 45%;
+	}
+	.protfolio-content{
+		padding: 0 28px;
+	}
+	.footer-nav ul{
+		margin-top: 20px;
+	}
+	.header-nav .menu > li{
+		padding-left: 0;
+	}
+	.header-slider.header-slider-style2.owl-theme.owl-carousel .owl-nav > div,
+	.header-slider.owl-theme.owl-carousel .owl-nav > div {
+		font-size: 22px;
+		height: 40px;
+		left: 15px;
+		line-height: 37px;
+		width: 40px;
+	}
+	.header-slider.header-slider-style2.owl-theme.owl-carousel .owl-nav > .owl-next,
+	.header-slider.owl-theme.owl-carousel .owl-nav > .owl-next {
+		right: 15px;
+		left: auto;
+	}
+	.protfolio-single-item.six-column .protfolio-content{
+		top: 30%;
+		padding: 0 28px;
+	}
+	.ug-slider-control.ug-arrow-right::after{
+		content: "";
+	}
+	.ug-slider-control.ug-arrow-right::after, .ug-slider-control.ug-arrow-left::before{
+		border: 0;
+	}
+	.hair-dryer-image{
+		margin-bottom: 20px;
+	}
+	.social-icons i{
+		padding-right: 18px;
+	}
+	.work-image-holder img{
+		max-width: 100%;
+	}
+}
+
+@media (max-width:360px) {
+	
+	.cart-form .btn-default-border-less{
+		margin-bottom: 20px;
+	}
+	.table span{
+		float: right;
+	}
+	.blog-post-pagination .pagination li a{
+		margin-bottom: 5px;
+	}
+	.search-box .search-form {
+		padding: 17px 160px 17px 5px;
+	}
+	.about-us-customer span{
+		font-size: 18px;
+	}
+	.post-padding{
+		padding: 0 7px;
+	}
+
+}
